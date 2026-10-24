@@ -1,0 +1,35 @@
+{
+  "source": "Pixso desktop / Design (0:1)",
+  "referenceSize": {"width": 375, "height": 812},
+  "colors": {"navy":"#222F63","green":"#08B589","pink":"#FF427B","background":"#F7F8FB"},
+  "notes": "Original root frames have transparent fills. Runtime uses the light background present in their header and illustration gradient.",
+  "frames": [
+    {"id":"0:468","reference":"01-welcome","module":"LibraryScreen / welcome"},
+    {"id":"0:458","reference":"02-new-book","module":"BookEditor"},
+    {"id":"0:439","reference":"03-recording","module":"RecordingSheet / recording"},
+    {"id":"0:418","reference":"04-recording-stop","module":"RecordingSheet / review"},
+    {"id":"0:386","reference":"05-recording-listen","module":"RecordingSheet / playback"},
+    {"id":"0:375","reference":"06-camera","module":"CoverScreen / native camera entry"},
+    {"id":"0:360","reference":"07-camera-check","module":"CoverScreen / preview"},
+    {"id":"0:341","reference":"08-book-content","module":"BookEditor / content"},
+    {"id":"0:318","reference":"09-page-edit","module":"BookEditor / page menu and reorder"},
+    {"id":"0:262","reference":"10-library-grid","module":"LibraryScreen / grid"},
+    {"id":"0:231","reference":"11-library-list","module":"LibraryScreen / list"},
+    {"id":"0:164","reference":"12-library-edit","module":"LibraryScreen / selection"},
+    {"id":"0:145","reference":"13-playlists-empty","module":"LibraryScreen / playlists"},
+    {"id":"0:137","reference":"14-playlist-name","module":"PlaylistNameScreen"},
+    {"id":"0:82","reference":"15-choose-books","module":"ChooseBooksScreen"},
+    {"id":"0:26","reference":"16-choose-books-selected","module":"ChooseBooksScreen / selected"},
+    {"id":"0:14","reference":"17-player-playing","module":"PlayerScreen / playing"},
+    {"id":"0:2","reference":"18-player-paused","module":"PlayerScreen / paused"}
+  ],
+  "assets": [
+    {"file":"bedtime.png","node":"0:21"},
+    {"file":"adventure.png","node":"0:276"},
+    {"file":"friends.png","node":"0:283"},
+    {"file":"music.png","node":"0:290"},
+    {"file":"playtime.png","node":"0:297"},
+    {"file":"welcome.png","node":"0:474"},
+    {"file":"sleep.png","node":"0:150"}
+  ]
+}

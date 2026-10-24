@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "viewport": "390 × 844 @2x",
+  "screenshots": 21,
+  "bookCount": 6,
+  "recordedAudioPersisted": true,
+  "playlistBooks": 2,
+  "uncaughtErrors": [],
+  "checks": [
+    "record / stop / listen / save",
+    "photo import and cover preview",
+    "reload persistence",
+    "recorded audio playback after reload",
+    "grid / list / edit selection",
+    "playlist create and selection",
+    "sample playback / pause / next / previous / automatic advance / repeat",
+    "320px and 768px layout"
+  ]
+}
